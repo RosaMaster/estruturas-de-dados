@@ -1,6 +1,3 @@
-# estruturas-de-dados
-Uma estrutura de dados, em ciência da computação, é uma coleção tanto de valores quanto de operações. É uma implementação concreta de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
-
 <!-- HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
@@ -21,70 +18,75 @@ Uma estrutura de dados, em ciência da computação, é uma coleção tanto de v
 ---
 
 <!-- LINKS UTEIS -->
-
+> Vídeos de Apoio
+>> [Programando no Visual Studio Code em C / C++](https://www.youtube.com/watch?v=h96Z38oMJZA)<br>
+>> [Best 5 Online Compiler for C / C++ / Java / Python | Kumar Tutorials](https://www.youtube.com/watch?v=tvQMN7F2DxU&t=1s)<br>
 
 <br>
 
 <!-- SEMANA 01 -->
 >&#128311; **Semana 01**: A linguagem C++
->> Aula 01 - [Introdução ao C ++](./Docs/Aula01..md)<br>
+>> Aula 01 - [Introdução ao C ++](https://www.youtube.com/watch?v=VZl6X80B0_Q)<br>
 >
->> Aula 02 - [Ponteiros e Referências](./Docs/Aula02..md)<br>
+>> Aula 02 - [Ponteiros e Referências](https://www.youtube.com/watch?v=8m4LsMF7iik)<br>
 >
->> Aula 03 - [Vetores](./Docs/Aula03..md)<br>
+>> Aula 03 - [Vetores](https://www.youtube.com/watch?v=93hAmJp8e9A)<br>
 
 <!-- SEMANA 02 -->
 >&#128310; **Semana 02**: As visões das estruturas de dados
->> Aula 04 - [Classes](./Docs/Aula04..md)<br>
+>> Aula 04 - [Classes](https://www.youtube.com/watch?v=zEPK_5hi6xo)<br>
 >
->> Aula 05 - [Pilha (Vetores)](./Docs/Aula05..md)<br>
+>> Aula 05 - [Pilha (Vetores)](https://www.youtube.com/watch?v=0Wu2kufCE_o)<br>
 >
->> Aula 06 - [Fila (Vetores)](./Docs/Aula06..md)<br>
+>> Aula 06 - [Fila (Vetores)](https://www.youtube.com/watch?v=A0opvcWd5j8)<br>
 
 <!-- SEMANA 03 -->
 >&#128311; **Semana 03**: Organização dos Dados na Memória (contíguo ou disperso)
->> Aula 07 - [Listas Encadeadas](./Docs/Aula07.md)<br>
+>> Aula 07 - [Listas Encadeadas](https://www.youtube.com/watch?v=4jZCbZpw6wU)<br>
 >
->> Aula 08 - [Pilha (Lista Encadeada)](./Docs/Aula08.md)<br>
+>> Aula 08 - [Pilha (Lista Encadeada)](https://www.youtube.com/watch?v=Xlkh6-10ILw)<br>
 >
->> Aula 09 - [Fila (Lista Encadeada)](./Docs/Aula09.md)<br>
+>> Aula 09 - [Fila (Lista Encadeada)](https://www.youtube.com/watch?v=1YxttUx-x7A)<br>
 
 <!-- SEMANA 04 -->
 >&#128310; **Semana 04**: Tabela Hash
->> Aula 10 - [Conceitos de Tabela Hash](./Docs/Aula10..md)<br>
+>>> Material Apoio
+>> [Estrutura de Dados](https://www.youtube.com/watch?v=qW_yEje9_8U)<br>
 >
->> Aula 11 - [Tabela Hash (implementação)](./Docs/Aula11..md)<br>
+>> Aula 10 - [Conceitos de Tabela Hash](https://www.youtube.com/watch?v=jQ0r7P8rC1M)<br>
 >
->> Aula 12 - [Tratamento de Colisões](./Docs/Aula12..md)<br>
+>> Aula 11 - [Tabela Hash (implementação)](https://www.youtube.com/watch?v=RmO18m_8ncc)<br>
+>
+>> Aula 12 - [Tratamento de Colisões](https://www.youtube.com/watch?v=ujV_NtXXQ_g)<br>
 
 <!-- SEMANA 05 -->
 >&#128311; **Semana 05**: Árvores Binárias de Busca
->> Aula 13 - [Árvores (Conceitos)](./Docs/Aula13..md)<br>
+>> Aula 13 - [Árvores (Conceitos)](https://www.youtube.com/watch?v=cSlBSOZtWtc)<br>
 >
->> Aula 14 - [Árvores (Implementações)](./Docs/Aula14..md)<br>
+>> Aula 14 - [Árvores (Implementações)](https://www.youtube.com/watch?v=1F-qSLrgMsY)<br>
 >
->> Aula 15 - [Árvores (Continuação)](./Docs/Aula01..md)<br>
+>> Aula 15 - [Árvores (Continuação)](https://www.youtube.com/watch?v=uum907bCjBw)<br>
 
 <!-- SEMANA 06 -->
->&#128310; **Semana 06**: Processamento de elementos da Web
->> Aula 16 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>&#128310; **Semana 06**: Árvores AVL e Grafos
+>> Aula 16 - [Árvores AVL](https://www.youtube.com/watch?v=1JKucLqAPZ8)<br>
 >
->> Aula 17 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 17 - [Grafos](https://www.youtube.com/watch?v=S-5Yrj9zuPQ)<br>
+>
+>> Aula 18 - [Grafos (implementação)](https://www.youtube.com/watch?v=kZKXxWSwLB8)<br>
 
 <!-- SEMANA 07 -->
->&#128311; **Semana 07**: GUIs
->> Aula 18 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128311; **Semana 07**: Aplicações de Grafos - PageRank
+>> Aula 19 - [Grafos (busca)](https://www.youtube.com/watch?v=P2dgnvWfnZA)<br>
 >
->> Aula 19 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 20 - [Grafos (PageRank)](https://www.youtube.com/watch?v=B8I-gvKBwes)<br>
 >
->> Aula 20 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 21 - [PageRank (implementação)](https://www.youtube.com/watch?v=M8fd82dbYS8)<br>
 
+<!-- SEMANA 08 -->
+>&#128310; **Semana 08**: Revisão
+>> Revisão I - [Revisão | Ulisses Martins Dias](https://www.youtube.com/watch?v=jKZiti4ONv0)<br>
 
----
-<!-- TOOLS & SKILLS 
-### **TOOLS & SKILLS**:
-
--->
 
 ---
 ### **RosaMaster**
